@@ -1,0 +1,10 @@
+{
+  "name": "fff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Ian Fisk",
+  "devDependencies": {
+    "staticrypt": "^3.5.0"
+  }
+}

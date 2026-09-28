@@ -1,0 +1,6 @@
+.DS_store
+.git
+node_modules
+encrypted
+original.html
+original_backup.html
